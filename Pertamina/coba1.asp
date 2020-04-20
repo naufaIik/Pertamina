@@ -12,7 +12,7 @@
 <nav class="navbar navbar- bg-light">
 <div class="container">
   <a class="navbar-brand" href="#">
-    <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\logo.png" width="200" height="60" class="d-inline-block align-top" alt="">
+    <img src="img\logo.png" width="200" height="60" class="d-inline-block align-top" alt="">
   </a>
   <nav class="navbar navbar-light bg-light">
   <a class="navbar-brand"></a>
@@ -34,11 +34,20 @@
           TENTANG KAMI
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <h4<a class="dropdown-item" href="#">TENTANG KAMI</h4</a>
-          <p>Sebagai lokomotif perekonomian bangsa Pertamina merupakan perusahaan milik negara yang bergerak di bidang energi meliputi minyak, gas serta energi baru dan terbarukan.</p>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
+          <h3<a class="dropdown-item" href="#">TENTANG KAMI</h3</a>
+          <p>Sebagai lokomotif perekonomian <br> bangsa Pertamina merupakan <br> perusahaan milik negara yang <br> bergerak di bidang energi meliputi <br> minyak, gas serta energi baru dan <br> terbarukan.</p>
+          <div class="col-md-3">
+          <span class="dropdown-mega-sub-title"><h4>Profil Perusahaan</h4></span>
+          <ul class="dropdown-mega-sub-nav">
+            <li><a href="/id/siapa-kami"><i class="fa fa-chevron-right" aria-hidden="true"></i> Siapa Kami</a></li>
+            <li><a href="/id/sejarah-pertamina"><i class="fa fa-chevron-right" aria-hidden="true"></i> Sejarah Pertamina</a></li>
+            <li><a href="/id/visi-misi-tujuan-dan-tata-nilai"><i class="fa fa-chevron-right" aria-hidden="true"></i> Visi,Misi,Tujuan&amp;Tata Nilai</a></li>
+            <li><a href="/id/bidang-usaha"><i class="fa fa-chevron-right" aria-hidden="true"></i> Bidang Usaha</a></li>
+            <li><a href="/id/makna-logo"><i class="fa fa-chevron-right" aria-hidden="true"></i> Makna Logo</a></li>
+            <li><a href="/id/struktur-grup-perusahaan"><i class="fa fa-chevron-right" aria-hidden="true"></i> Struktur Grup Perusahaan</a></li>
+            <li><a href="/id/pedoman-tata-kelola-perusahaan"><i class="fa fa-chevron-right" aria-hidden="true"></i> Pedoman Tata Kelola Perusahaan</a></li>
       </div>
+
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -116,25 +125,25 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\1.png" class="d-block w-100" alt="...">
+      <img src="img\1.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\2.png" class="d-block w-100" alt="...">
+      <img src="img\2.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\3.PNG" class="d-block w-100" alt="...">
+      <img src="img\3.PNG" class="d-block w-100" alt="...">
     </div>
         <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\4.PNG" class="d-block w-100" alt="...">
+      <img src="img\4.PNG" class="d-block w-100" alt="...">
     </div>
         <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\5.PNG" class="d-block w-100" alt="...">
+      <img src="img\5.PNG" class="d-block w-100" alt="...">
     </div>
         <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\6.PNG" class="d-block w-100" alt="...">
+      <img src="img\6.PNG" class="d-block w-100" alt="...">
     </div>
         <div class="carousel-item">
-      <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\7.PNG" class="d-block w-100" alt="...">
+      <img src="img\7.PNG" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -154,17 +163,17 @@
 </div>
 <div class="row">
     <div class="col text-center">
-    <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\bawah1.jpg" width="300" height="200">
+    <img src="img\bawah1.jpg" width="300" height="200">
     <h4>Produk Kami</h4>
       <p class="text-justify">Kegiatan PERTAMINA dalam menyelenggarakan usaha di bidang energi dan petrokimia, terbagi ke dalam dua sector, yaitu Hulu dan Hilir, serta ditunjang oleh kegiatan Anak-Anak Perusahaan dan Perusahaan Patungan</p>
     </div>
     <div class="col text-center">
-    <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\bawah2.jpg" width="300" height="200">
+    <img src="img\bawah2.jpg" width="300" height="200">
     <h4>Energi Terbarukan</h4>
       <p class="text-justify">Pertamina mengembangkan energi terbarukan seperti panas bumi, solar cell, lithium ion battery, biodiesel, green energy station dan lainnya.</p>
     </div>
     <div class="col text-center">
-    <img src="F:\Naufal\Kuliah\Semester 4\Pemograman Berbasis Web\Pertamina\img\bawah3.jpg" width="300" height="200">
+    <img src="img\bawah3.jpg" width="300" height="200">
     <h4>Pemegang Saham</h4>
       <p class="text-justify">Pertamina adalah perusahaan energi nasional yang sahamnya 100% dimiliki oleh Pemerintah Republik Indonesia melalui kementerian Badan usaha milik negara(BUMN) selaku pemegang saham.</p>
     </div>
