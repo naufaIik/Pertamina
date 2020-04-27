@@ -1,7 +1,5 @@
 /* CSS Document */
 body {
-	margin:0;
-	padding:0;
 }
 .menu-area {
 	position: static;
@@ -10,8 +8,25 @@ body {
 }
 .mega-area {
 	position: absolute;
-	width: 100%;
-	left: 0;
+	width: 98%;
+	left: 15px;
 	right: 0;
 	padding: 15px;
-}
+	margin-top:-1px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	text-align: left;
+	float: left;
+	}
+footer {
+    background: #0e0e0e;
+    border-top: 4px solid #0e0e0e;
+    font-size: 0.9em;
+    margin-top: 
+    margin-left:
+    margin-right: 
+    padding: 70px 0 0;
+    position: relative;
+    clear: both;
+    text-align: left;
+
