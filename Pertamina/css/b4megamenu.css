@@ -29,4 +29,7 @@ footer {
     position: relative;
     clear: both;
     text-align: left;
+	}
+footer-bot {
+	background: #333;
 
